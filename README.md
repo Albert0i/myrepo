@@ -4,11 +4,11 @@
 
 
 ## How to
-- Create a repository on GitHub (&lt;your-username&gt;/&lt;your-repo&gt;)
+1. Create a repository on GitHub (&lt;your-username&gt;/&lt;your-repo&gt;)
 
-- Create a db.json file
+2. Create a **db.json** file
 
-- Visit 
+3. Visit 
 ```
 https://my-json-server.typicode.com/<your-username>/<your-repo>
 ```
