@@ -1,4 +1,4 @@
-# My repository
+# My Repository
 
 [My JSON Server](https://my-json-server.typicode.com/)
 
